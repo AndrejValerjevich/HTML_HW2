@@ -1,0 +1,48 @@
+@import "normalize.css";
+
+body {
+	padding:20px;
+	margin:20px;
+	color: #404040;
+	}
+h1 {
+
+}
+h2 {
+	font-style: italic;
+}
+
+blockquote {
+
+}
+ol {
+	border:1px solid #ccc;
+	padding:20px 50px;
+}
+ul {
+	color: #000000;
+}
+li {
+	font-size: 17px;
+}
+
+a {
+	font-size: 14px;
+
+}
+p {
+	margin:0 15px;
+}
+.cascade-paragraph {
+	background: #99FF99;
+}
+
+li .third-level-li {
+	color: red;
+}
+
+.first-letter {
+	font-size: 25px;
+	margin-left: 25px;
+	color: #f00;
+}
